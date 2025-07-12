@@ -145,15 +145,3 @@ ITEM_PEDIDO (id_pedido, id_produto, quantidade, preco_unitario)
 - O rastreamento de entregas foi incorporado diretamente na entidade `Entrega`.
 
 ---
-
-## 👨‍💻 Autor
-
-Desenvolvido por **[Seu Nome Aqui]**  
-GitHub: [@seu-usuario](https://github.com/seu-usuario)
-
----
-
-## 📝 Licença
-
-Este projeto está licenciado sob os termos da licença MIT.
-
